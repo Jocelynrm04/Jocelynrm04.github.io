@@ -72,21 +72,20 @@ h5{
 .danzas{
     display: flex;
     flex-direction: row;
-    align-items: center;
-    text-align: center;
     color: rgb(97, 22, 94);
     font-family:'Berkshire Swash', cursive;
     font-size: 30px;
     background-color: #f7e5f1;
-    margin-left: 3%;
-    margin-right: 3%;
-    padding-right: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .danzas img{
+    display: flex;
     border-color: #f09cd7;
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 90%;
+
  }
 
 h3{
